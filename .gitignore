@@ -162,3 +162,7 @@ cython_debug/
 # user's notebooks
 notebooks/*
 !notebooks/.keep
+
+# signate test data
+signate/mnist/csv/*
+signate/mnist/data/*

@@ -3,3 +3,23 @@ black
 jupyter
 ipykernel
 mypy
+
+# Data processing and scientific computing
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Progress bar
+tqdm
+
+# Image processing
+opencv-python
+Pillow
+
+# Machine learning
+torch
+torchvision
+scikit-learn
